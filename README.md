@@ -16,8 +16,7 @@
 ![Wire Frame4](./assets/roster.png)
 
 ## User Stories 
-### MVP Goals 
-- MVP Goals
+#### MVP Goals 
 - As a user, I want to view a list of all NBA players.
 - As a user, I want to be able to create a roster of 5 players (search for players). 
 - As a user, I want to add a new player(name, team, position, and stats) to my roster so that I can keep track of my fantasy team.
@@ -26,9 +25,9 @@
 - As a user, I want to be able to track the total stats of my roster.
 
 ### Stretch Goals
-- International Players
+- Include functionality to search for International Players
 - Image upload of players
-- Invite other users to It's in the Game to play. 
+- Invite other users to It's in the Game for fantasy play. 
 - Live stats for players
 
 ## ERD
